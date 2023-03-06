@@ -1,0 +1,35 @@
+.card img{
+    height: 170px;
+    width: 300px;
+    margin: 9px;
+    border-radius: 7px;
+}
+.card{
+    width: 350px;
+    height: auto;
+    /* border:1px solid gray; */
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
+.card p{
+    text-align: left;
+    margin-left: 29px;
+    color: dimgrey;
+    line-height: .9;
+    font-size: 19px;
+    font-weight: bold;
+}
+.btn-style{
+    margin: 10px;
+    background-color: olivedrab;
+    color: white;
+    border: 1px solid olivedrab;
+    padding: 10px 69px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+#name{
+    color: olivedrab;
+    font-weight: bolder;
+}

@@ -1,0 +1,13 @@
+.workout-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    column-gap: 12px;
+}
+
+.workout{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 15px;
+    row-gap: 15px;
+    margin: 15px;
+}
