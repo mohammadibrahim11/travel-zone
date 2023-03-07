@@ -60,19 +60,32 @@ const AboutUs = () => {
           <div className="text-center mt-5 pt-5">
             <h4>About Us</h4>
           </div>
-          <div className="about-info container ">
-           
+          <div className="about-info container">
             <p className="about">
-            <h4>About travel agency</h4>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet dictum et in feugiat. Platea in diam, est congue. Posuere sapien morbi augue ultrices. Et facilisi orci sollicitudin placerat lacus lacus nibh. Egestas semper massa viverra massa proin in morbi placerat. Pharetra nec, est non integer nisi, ut faucibus. Non, in nam sollicitudin vitae volutpat ac molestie. Turpis pellentesque sit pellentesque id cras lobortis tortor, blandit.
-            <br />
-            <br />
-            Id ac non, semper turpis maecenas. Convallis tempor fringilla quisque arcu, dictum. Vitae cursus vel netus tincidunt vitae. Malesuada velit, at mattis adipiscing quisque tristique id magna. Blandit porta sit nam magna sit. Turpis vestibulum facilisis placerat habitant gravida eget. Lacus pretium, arcu non adipiscing sed faucibus semper eget tempor.
+              <h4>About travel agency</h4>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Amet
+              dictum et in feugiat. Platea in diam, est congue. Posuere sapien
+              morbi augue ultrices. Et facilisi orci sollicitudin placerat lacus
+              lacus nibh. Egestas semper massa viverra massa proin in morbi
+              placerat. Pharetra nec, est non integer nisi, ut faucibus. Non, in
+              nam sollicitudin vitae volutpat ac molestie. Turpis pellentesque
+              sit pellentesque id cras lobortis tortor, blandit.
+              <br />
+              <br />
+              Id ac non, semper turpis maecenas. Convallis tempor fringilla
+              quisque arcu, dictum. Vitae cursus vel netus tincidunt vitae.
+              Malesuada velit, at mattis adipiscing quisque tristique id magna.
+              Blandit porta sit nam magna sit. Turpis vestibulum facilisis
+              placerat habitant gravida eget. Lacus pretium, arcu non adipiscing
+              sed faucibus semper eget tempor.
             </p>
             <div className="">
-              <img src="https://i.ibb.co/qYKP0Yy/Rectangle-25.png" alt="" style={{"width": "280px",
-"height": "394px"}} />
-              {/* <img src="" alt="" /> */}
+              <img
+                className="border rounded"
+                src="https://i.ibb.co/qYKP0Yy/Rectangle-25.png"
+                alt=""
+                style={{ width: "280px", height: "394px" }}
+              />
             </div>
           </div>
         </div>

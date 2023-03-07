@@ -1,6 +1,9 @@
 // import logo from './logo.svg';
 import './App.css';
-import AboutUs from './Components/AboutUs/AboutUs';
+import HotelPakages from './Components/HotelPakages/HotelPakages';
+// import HotelPakages from './Components/HotelPakages/HotelPakages';
+// import AboutUs from './Components/AboutUs/AboutUs';
+// import Facilities from './Components/Facilities/HotelPakages/HotelPakages'
 // import Header from './Components/Header/Header';
 // import Home from './Components/Home/Home';
 
@@ -8,7 +11,10 @@ import AboutUs from './Components/AboutUs/AboutUs';
 function App() {
   return (
     <div>
-      <AboutUs></AboutUs>
+      {/* <AboutUs></AboutUs> */}
+      {/* <Facilities></Facilities> */}
+      {/* <Facilities></Facilities> */}
+      <HotelPakages></HotelPakages>
           {/* <Header></Header>
           <Home></Home> */}
     </div>

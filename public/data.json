@@ -1,65 +1,184 @@
 [
   {
-    "_id": "63346e4e2fd2f2b77bff236e",
     "index": 0,
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
     "img": "images/img-1.jpg",
     "age": 29,
+    "location": 29,
+    "stay": "2-nights 3-days",
+    "capacity": "single",
+    "ratings": "5",
     "name": "Walsh Prince",
-    "description": "Cupidatat reprehenderit eiusmod deserunt dolore commodo occaecat. Commodo exercitation veniam minim amet officia minim sunt exercitation elit enim nulla voluptate occaecat proident. Quis ipsum do ut enim. Eiusmod ullamco reprehenderit nulla officia sint reprehenderit laboris laboris minim ea do. Sunt velit elit pariatur cupidatat in eiusmod.\r\n",
-    "time": 12
+    "price": "$233",
+    "room-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "free-facilities": [
+      "breakfase service",
+      "Lunch service",
+      "Dinner service",
+      " Free wifi",
+      "Pool",
+      "Room service",
+      "Air condition room"
+    ],
+    "paid-facilities": [
+      "Food & Drinks",
+      "Tickets",
+      "Tour Guide",
+      "Personal care"
+    ]
   },
   {
     "_id": "63346e4e6588bf87687865ec",
     "index": 1,
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
     "img": "images/img-2.jpg",
-    "age": 28,
+    "stay": "1-nights 2-days",
+    "capacity": "double",
+    "ratings": "4.9",
     "name": "Yates Woods",
-    "description": "Sit proident magna mollit laboris aute irure tempor irure. Ipsum velit ullamco adipisicing Lorem in do id laboris. Enim minim fugiat sit laboris minim ipsum occaecat quis. Reprehenderit id consectetur laborum quis exercitation magna anim cupidatat. Consectetur sunt excepteur eu duis.\r\n",
-    "time": 18
+    "price": "$133",
+    "room-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "free-facilities": [
+      "breakfase service",
+      "Lunch service",
+      "Dinner service",
+      " Free wifi",
+      "Pool",
+      "Room service",
+      "Air condition room"
+    ],
+    "paid-facilities": [
+      "Food & Drinks",
+      "Tickets",
+      "Tour Guide",
+      "Personal care"
+    ]
   },
   {
-    "_id": "63346e4e86a8ceba3a799f9f",
-    "index": 2,
-    "img": "images/img-3.jpg",
-    "age": 23,
-    "name": "Alison Olsen",
-    "description": "Velit ex ex culpa ut est labore adipisicing enim nulla esse. Ad nostrud fugiat ullamco sunt quis reprehenderit culpa consequat. Adipisicing excepteur nostrud nostrud velit officia dolore qui incididunt sint in. Consequat incididunt consectetur minim enim consequat culpa incididunt occaecat adipisicing sunt commodo ad et duis. Exercitation incididunt elit excepteur anim.\r\n",
-    "time": 52
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-2.jpg",
+    "stay": "4-nights 4-days",
+    "capacity": "double",
+    "ratings": "4.9",
+    "name": "Yates Woods",
+    "price": "$333",
+    "room-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "free-facilities": [
+      "breakfase service",
+      "Lunch service",
+      "Dinner service",
+      " Free wifi",
+      "Pool",
+      "Room service",
+      "Air condition room",
+      "Food & Drinks",
+      "Personal care"
+    ],
+    "paid-facilities": ["Tickets", "Tour Guide"]
   },
   {
-    "_id": "63346e4e57963afabbed66b9",
-    "index": 3,
-    "img": "images/img-4.jpg",
-    "age": 21,
-    "name": "Marian Welch",
-    "description": "Anim ut ex exercitation non aliqua irure nostrud. Ea ullamco qui voluptate in consequat aliqua occaecat ea cillum irure do tempor irure elit. Sint incididunt Lorem fugiat ea ipsum excepteur. Do ex est commodo esse voluptate magna dolor sunt eu occaecat nulla veniam.\r\n",
-    "time": 57
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-2.jpg",
+    "stay": "2-nights 1-day",
+    "capacity": "single",
+    "ratings": "4.9",
+    "name": "Yates Woods",
+    "price": "$193",
+    "room-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "free-facilities": [
+      "breakfase service",
+      "Lunch service",
+      "Dinner service",
+      " Free wifi",
+      "Pool",
+      "Room service",
+      "Air condition room"
+    ],
+    "paid-facilities": [
+      "Food & Drinks",
+      "Tickets",
+      "Tour Guide",
+      "Personal care"
+    ]
   },
   {
-    "_id": "63346e4ead2f5c1a09106dfc",
-    "index": 4,
-    "img": "images/img-5.jpg",
-    "age": 31,
-    "name": "Michele Bradley",
-    "description": "Et ipsum veniam ad nisi. Ea nisi sint amet ea sit consectetur irure reprehenderit quis sit cupidatat culpa officia. Tempor Lorem mollit labore culpa et sint occaecat mollit incididunt eu sint pariatur pariatur.\r\n",
-    "time": 25
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-2.jpg",
+    "stay": "3-nights 4-days",
+    "capacity": "double",
+    "ratings": "4.9",
+    "name": "Yates Woods",
+    "price": "$243",
+    "room-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "free-facilities": [
+      "breakfase service",
+      "Lunch service",
+      "Dinner service",
+      " Free wifi",
+      "Pool",
+      "Room service",
+      "Air condition room"
+    ],
+    "paid-facilities": [
+      "Food & Drinks",
+      "Tickets",
+      "Tour Guide",
+      "Personal care"
+    ]
   },
   {
-    "_id": "63346e4e995ede4bd31b5af3",
-    "index": 5,
-    "img": "images/img-6.jpg",
-    "age": 40,
-    "name": "Melissa Estes",
-    "description": "Fugiat est dolore velit adipisicing amet deserunt veniam occaecat laboris aute. Tempor mollit aliqua consequat esse mollit excepteur officia. Deserunt officia veniam reprehenderit adipisicing excepteur velit. Et labore elit cillum sint sit ea minim dolore. Anim veniam dolore consectetur labore ut ex aliqua veniam aute duis eu.\r\n",
-    "time": 13
-  },
-  {
-    "_id": "63346e4e601d0dffe4e1da6d",
-    "index": 6,
-    "img": "images/img-6.jpg",
-    "age": 38,
-    "name": "Silvia Fulton",
-    "description": "Commodo dolor reprehenderit proident enim incididunt est sint excepteur. Excepteur consequat commodo culpa minim enim. Pariatur ea magna ea exercitation eu dolor eiusmod voluptate laboris exercitation adipisicing est. Elit aute ad id anim cupidatat ullamco excepteur fugiat sit velit labore officia. Ullamco consectetur esse duis fugiat in aliqua consectetur enim enim ipsum eu id consectetur. Esse Lorem aliqua eiusmod laborum in incididunt incididunt cupidatat. Incididunt adipisicing cupidatat eiusmod fugiat magna enim ex velit ad aliqua officia dolor.\r\n",
-    "time": 52
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-2.jpg",
+    "stay": "2-nights 3-days",
+    "capacity": "double",
+    "ratings": "4.9",
+    "name": "Yates Woods",
+    "price": "$183",
+    "room-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "free-facilities": [
+      "breakfase service",
+      "Lunch service",
+      "Dinner service",
+      " Free wifi",
+      "Pool",
+      "Room service",
+      "Air condition room"
+    ],
+    "paid-facilities": [
+      "Food & Drinks",
+      "Tickets",
+      "Tour Guide",
+      "Personal care"
+    ]
   }
 ]
