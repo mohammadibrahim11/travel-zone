@@ -1,146 +1,221 @@
 [
-    {
-        "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-        "img": "images/img-1.jpg",
-        "age": 29,
-        "stay": "4days,5nights stay",
-        "ratings": "5",
-        "name": "Paris-All stunning place",
-        "price": "$210",
-        "place-img": {
-          "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
-        },
-      
-        "facilities": [
-          "flight facility",
-          "5star hotel",
-          "site seeing",
-          "transport",
-          "Meels",
-          "Room service",
-          "Air condition room"
-        ]
-      },
-    {
-        "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-        "img": "images/img-1.jpg",
-        "age": 29,
-        "stay": "4days,5nights stay",
-        "ratings": "5",
-        "name": "Nepal-All stunning place",
-        "price": "$120",
-        "place-img": {
-          "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
-        },
-      
-        "facilities": [
-          "flight facility",
-          "5star hotel",
-          "site seeing",
-          "transport",
-          "Meels",
-          "Room service",
-          "Air condition room"
-        ]
-      },
-    {
-        "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-        "img": "images/img-1.jpg",
-        "age": 29,
-        "stay": "4days,5nights stay",
-        "ratings": "5",
-        "name": "Japan-All stunning place",
-        "price": "$190",
-        "place-img": {
-          "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
-        },
-      
-        "facilities": [
-          "flight facility",
-          "5star hotel",
-          "site seeing",
-          "transport",
-          "Meels",
-          "Room service",
-          "Air condition room"
-        ]
-      },
-    {
-        "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-        "img": "images/img-1.jpg",
-        "age": 29,
-        "stay": "4days,5nights stay",
-        "ratings": "5",
-        "name": "India-All stunning place",
-        "price": "$100",
-        "place-img": {
-          "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
-        },
-      
-        "facilities": [
-          "flight facility",
-          "5star hotel",
-          "site seeing",
-          "transport",
-          "Meels",
-          "Room service",
-          "Air condition room"
-        ]
-      },
-    {
-        "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-        "img": "images/img-1.jpg",
-        "age": 29,
-        "stay": "4days,5nights stay",
-        "ratings": "5",
-        "name": "turkey-All stunning place",
-        "price": "$180",
-        "place-img": {
-          "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
-        },
-      
-        "facilities": [
-          "flight facility",
-          "5star hotel",
-          "site seeing",
-          "transport",
-          "Meels",
-          "Room service",
-          "Air condition room"
-        ]
-      },
-    {
-        "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-        "img": "images/img-1.jpg",
-        "age": 29,
-        "stay": "4days,5nights stay",
-        "ratings": "5",
-        "name": "cox's bazar-All stunning place",
-        "price": "$40",
-        "place-img": {
-          "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
-          "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
-        },
-      
-        "facilities": [
-          "flight facility",
-          "5star hotel",
-          "site seeing",
-          "transport",
-          "Meels",
-          "Room service",
-          "Air condition room"
-        ]
-      }
+  {
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-1.jpg",
+    "age": 29,
+    "code": 24531,
+    "stay": "3days,2nights",
+    "journey": "Dhaka-Paris-Dhaka",
+    "ratings": "5",
+    "name": "Paris-All stunning place",
+    "price": "$271/per person",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+    "itinerary": {
+      "firstDay": "paris-Reimis-Luxembourg",
+      "secondDay": "Luxembourg-Trier-Koblenz-Frankfurt",
+      "thirdDay": "Frankfurt-Bonn-cologn-Amsterdam"
+    },
+    "cancellationPolicy": {
+      "one": "18 days and more prior to departure date:  10% of tour price 17 -10days prior to departure date: 50% of tour price9 days and less prior to departure date: 100% of tour price",
+      "two": "Please prepare enough Euros. You are recommended to exchange the Euros 1-2 weeks before the departure date at your local bank. It is not that convenient and cost-efficient for the exchange at destincation's ATMs, airports or railway stations due to the exchange rate."
+    },
+    "pricingInfo": {
+      "one": " Price for Single Occupancy applies when one person stays in one standard hotel room.",
+      "two": "Price for Double Occupancy applies when two people stay in one standard hotel room.",
+      "three": " Price for Child applies when child of 2-11 years stays as the 3rd person in one standard hotel room.",
+      "four": " Children younger than 2 years of age travel for free, provided they do not occupy a seat on the bus, or a bed in the room.",
+      "five": " Tour prices are based on Euros (EUR) and converted into US dollars (USD). Constant fluctuations in the exchange rate cause prices to change on a regular basis. You will be charged the price based on the applicable exchange rate at the time of payment. All transactions are final. We do not offer discounts or compensation to those citing lower prices at a later date. Bookings will be"
+    },
+    "reservationInfo": {
+      "one": "Immediately after submitting your reservation you will receive a Receipt of Reservation via email.",
+      "two": "Within one to two business days of submitting your reservation you will receive a confirmation email from us. If you need to book an airline ticket, we recommend that you do so after you receive a confirmation of your tour reservation from us.",
+      "three": " An E-Ticket will be sent to you via email as soon as details of your reservation are confirmed or your supporting information is received by us. We will provide you with all detailed information about your tour on the E-Ticket. Contact information for local tour provider will be included on E-Ticket for your convenience or re-confirmation purpose if re-confirmation is required.",
+      "four": " Simply print your E-Ticket and present it with your valid photo ID on the day of your activity to your tour guide. Please remember E-Ticket is your proof of purchase."
+    },
+    "termsAndCondition": {
+      "one": "Your purchase does not guarantee confirmation. Your purchase will initiate a reservation process. We will confirm with you via email within one to two business days.",
+      "two": "Prices may vary due to availability. We reserve the right to make price adjustment without prior notice.",
+      "three": " Please refer to our Standard Amendment, Cancellation and Refund Policy before you make reservation.",
+      "four": " Please refer to Customer Agreement before you make reservation.",
+      "five": " For refunds processed by credit card or paypal, there will be a 6% transaction fee that will be deducted from the overall refund amount. The refund amount can also be credited directly to your account for future bookings without any transaction fee.",
+      "six": "  Local tour provider reserves the right to make modifications to tour arrangements including order of tour activities, hotel and its location if deemed necessary."
+    },
+    "includes": {
+      "one": "2-night hotel accommodations",
+      "two": "Breakfast (coffee or tea, juice and bread)",
+      "three": "Ground transportation in air-conditioned motorcoach",
+      "four": "Professional tour guide"
+    },
+    "excludes": {
+      "one": "Airfare",
+      "two": "Airport pick-up, drop-off",
+      "three": "Mandatory Service Fee - EUR 7.00 per day, per",
+      "four": "All personal expenses and additional hotel services",
+      "five": "Lunch and dinner"
+    }
+  },
+  {
+    "overview": "Explore UNESCO World Heritage Sites,Private Guide",
+    "img": "images/img-1.jpg",
+    "age": 29,
+    "code": 24532,
+    "stay": "1Day",
+    "ratings": "4.9",
+    "name": "Nepal-All stunning place",
+    "price": "$449/per person",
+    "itinerary": {
+      "firstDay": "paris-Reimis-Luxembourg",
+      "secondDay": "Luxembourg-Trier-Koblenz-Frankfurt",
+      "thirdDay": "Frankfurt-Bonn-cologn-Amsterdam"
+    },
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "includes": {
+      "one": " Private Tour",
+      "two": "Breakfast (coffee or tea, juice and bread)",
+      "three": "Ground transportation in air-conditioned motorcoach",
+      "four": "Professional tour guide",
+      "five": "Taxes",
+      "six": "Water Bottle",
+      "seven": "Monument Fees"
+    },
+    "excludes": {
+      "one": " Lunch",
+      "two": "Gratuities"
+    }
+  },
+  {
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-1.jpg",
+    "age": 29,
+    "stay": "4days,5nights stay",
+    "ratings": "5",
+    "name": "Japan-All stunning place",
+    "price": "$190",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "facilities": [
+      "flight facility",
+      "5star hotel",
+      "site seeing",
+      "transport",
+      "Meels",
+      "Room service",
+      "Air condition room"
+    ]
+  },
+  {
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-1.jpg",
+    "age": 29,
+    "stay": "4days,5nights stay",
+    "ratings": "5",
+    "name": "India-All stunning place",
+    "price": "$100",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "facilities": [
+      "flight facility",
+      "5star hotel",
+      "site seeing",
+      "transport",
+      "Meels",
+      "Room service",
+      "Air condition room"
+    ]
+  },
+  {
+    "overview": "Admission to Mosque of Suleiman the Magnificent and Topkapi Palace in Istanbul, Mausoleum of Ataturk in Ankara , Goreme Valley; Valley of Uchisar; Underground city of Kaimacli; Pasabag Valley , Traditional tea in Safranbolu , Gokgol Magarasi cave , Caves and tombs in Eregli , Eydinpinar Waterfalls",
+    "img": "images/img-1.jpg",
+    "age": 29,
+    "code": 24535,
+    "stay": "7days,6nights",
+    "journey": "Dhaka-Istunbul-Dhaka",
+    "ratings": "5",
+    "itinerary": {
+      "firstDay": "Istunbul",
+      "secondDay": "Istunbul",
+      "thirdDay": "Istunbul",
+      "fourthDay": "Istanbul - Ankara - Cappadocia",
+      "fifthDay": "Cappadocia",
+      "sixthDay": "Cappadocia - Hacibekta- Ankara - Safranbolu",
+      "seventhDay": "Safranbolu - Gokgol Magarasi - Eregil - Eydinpinar - Istanbul-Dhaka"
+    },
+    "name": "turkey-All stunning place",
+    "price": "$482/per person",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "facilities": [
+      "flight facility",
+      "5star hotel",
+      "site seeing",
+      "transport",
+      "Meels",
+      "Room service",
+      "Air condition room"
+    ],
+    "includes": {
+      "one": "6-night hotel accommodations",
+      "two": "Breakfast (coffee or tea, juice and bread)",
+      "three": "Ground transportation in air-conditioned motorcoach",
+      "four": "Professional tour guide",
+      "five": "Istanbul Airport pick-up",
+      "six": "Ground transportation",
+      "seven": " Mosque of Suleiman the Magnificent and Topkapi Palace in Istanbul, Mausoleum of Ataturk in Ankara , Goreme Valley; Valley of Uchisar; Underground city of Kaimacli; Pasabag Valley , Traditional tea in Safranbolu , Gokgol Magarasi cave , Caves and tombs in Eregli , Eydinpinar Waterfalls",
+      "eight": "Cableway Viewpoint of Pierre Loti in Istanbul",
+      "nine": "Istanbul - Ankara",
+      "ten": "CAPADOCIA, CAPADOCIA, SAFRANBOLU"
+    },
+    "excludes": {
+      "one": "Airfare",
+      "two": "Airport drop-off at the end of the tour",
+      "three": "Mandatory Service Fee - EUR 7.00 per day, per",
+      "four": "All personal expenses and additional hotel services",
+      "five": "Entrance fees & optional tours (Prices vary from season to season; only the price at the ticket booth / box office is final"
+    }
+  },
+  {
+    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "img": "images/img-1.jpg",
+    "age": 29,
+    "stay": "4days,5nights stay",
+    "ratings": "5",
+    "name": "cox's bazar-All stunning place",
+    "price": "$40",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "facilities": [
+      "flight facility",
+      "5star hotel",
+      "site seeing",
+      "transport",
+      "Meels",
+      "Room service",
+      "Air condition room"
+    ]
+  }
 ]
