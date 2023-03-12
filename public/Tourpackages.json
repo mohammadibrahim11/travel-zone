@@ -4,7 +4,7 @@
     "img": "images/img-1.jpg",
     "age": 29,
     "code": 24531,
-    "stay": "3days,2nights",
+    "stay": "3days,2Nights",
     "journey": "Dhaka-Paris-Dhaka",
     "ratings": "5",
     "name": "Paris-All stunning place",
@@ -93,17 +93,48 @@
     }
   },
   {
-    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "overview": "• Admission to Metro, Zojoji Temple, Meiji Temple, Sensoji Temple , Arakurayama Sengen Park , Village Museum , Toyota Museum , Tenryu-ji Temple, Arashiyama bamboo forest in Kyoto, Fushimi Inari, Imperial Palace, Kinkakuji Temple , Todai-ji Temple and Horyu-ji Temple. , Engyio-ji Temple , Castle , Korakuen Gardens , Itsukushima Temple , Peace Museum in HiroshimaBoat: Kawaguchiko LakeBreakfasts buffet, 3 Lunchs and 3 DinnerCity tour in: TOKYO, KYOTOFerry: Hiroshima - MiyajimaFunicular: Mount ShosaTokyo Airport pick-up service",
     "img": "images/img-1.jpg",
     "age": 29,
-    "stay": "4days,5nights stay",
+    "code": 24533,
+
+    "stay": "9days,8nights",
     "ratings": "5",
     "name": "Japan-All stunning place",
-    "price": "$190",
+    "journey": "Dhaka-Tokyo-Hiroshima-Dhaka",
+    "price": "$2529/person",
+
     "place-img": {
       "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
       "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
       "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+    "itinerary": {
+      "firstDay": "Tokyo",
+      "secondDay": "Tokyo",
+      "thirdDay": "Tokyo-Mount Fuji-Kawaguchiko",
+      "fourthDay": "Kawaguchiko-Toyota-Kyoto",
+      "fifthDay": "Kyoto",
+      "sixthDay": "Kyoto-Osaka",
+      "seventhDay": "Osaka-Okayama",
+      "eightDay": "Okayama-Hiroshima",
+      "ninethDay": "Hiroshima"
+    },
+    "includes": {
+      "one": "8-night hotel accommodations",
+      "two": "Breakfast (coffee or tea, juice and bread)",
+      "three": "City tour in: TOKYO, KYOTO",
+      "four": "Tokyo Airport pick-up,Breakfast buffet ,Professional English-speaking guide",
+      "five": " Boat: Kawaguchiko Lake",
+      "six": "Water Bottle",
+      "seven": " Metro, Zojoji Temple, Meiji Temple, Sensoji Temple , Arakurayama Sengen Park , Village Museum , Toyota Museum , Tenryu-ji Temple, Arashiyama bamboo forest in Kyoto, Fushimi Inari, Imperial Palace, Kinkakuji Temple , Todai-ji Temple and Horyu-ji Temple. , Engyio-ji Temple , Castle , Korakuen Gardens , Itsukushima Temple , Peace Museum in Hiroshima, Funicular: Mount Shosa",
+      "eight": " 3 Lunch Included in: TOKYO, NARA, HIMEJI 3 Dinner included in: TOKYO, KAWAGUCHIKO, HIROSHIMA"
+    },
+    "excludes": {
+      "one": "Airfares or related transportation between your home and departure city",
+      "two": "Airport drop-off at the end of the tour",
+      "three": "CAll personal expenses including hotel room service and meals; however, you have the option to pay for meals the tour guide arranges",
+      "four": " Entrance fees & optional tours (Prices vary from season to season; only the price at the ticket booth / box office is final)"
     },
 
     "facilities": [
@@ -117,28 +148,37 @@
     ]
   },
   {
-    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
-    "img": "images/img-1.jpg",
+    "overview": "Jammu and Kashmir is the northern-most state of india and shares its borders with Himachal predesh and Punjab and the neighbouring countries of pakistan, China and Afganistan.The state consists of three regions - jammu , the kashmir valley and ladakh.The naural beauty and picturesque locations have made it a favoured destination for tourists across the world.Jammu is famous for its temples, while the kashmir valley is known for its lakes and gardens",
     "age": 29,
-    "stay": "4days,5nights stay",
+    "stay": "5days,4nights",
     "ratings": "5",
-    "name": "India-All stunning place",
-    "price": "$100",
+    "name": "India-Kashmir",
+    "price": "$230/person",
     "place-img": {
       "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
       "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
       "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
     },
 
-    "facilities": [
-      "flight facility",
-      "5star hotel",
-      "site seeing",
-      "transport",
-      "Meels",
-      "Room service",
-      "Air condition room"
-    ]
+    "includes": {
+      "one": "Assistance Upon arrival at Sheikh Ul Alam int. airport ",
+      "two": "Traditional welcome in the hotel with welcome Drink on arraival",
+      "three": "visa assistance",
+      "four": "three nights Hotel Accomodation in Srinagar.(one night house boat)",
+      "five": "One night hotel accommodation in Pahalgam",
+      "six": " Daily Breakfast and dinner at Hotel",
+      "seven": " All Transportations & sighseeing tours by non-ac innova  cars",
+      "eight": " 90 minutes Boat right(shikara) on world famous dal lake-srinagar"
+    },
+    "excludes": {
+      "one": "internation + domestic air ticket ",
+      "two": "Visa fee with service charge",
+      "three": "Guide fee, Camera fee, any monument entrances",
+      "four": "additional costs due to flight cancellation, road blocks etc.",
+      "five": "any meals other than specified",
+      "six": " any expenses of personal nature such as laundry, tips, telephone cost etc",
+      "seven": "GST-5%"
+    }
   },
   {
     "overview": "Admission to Mosque of Suleiman the Magnificent and Topkapi Palace in Istanbul, Mausoleum of Ataturk in Ankara , Goreme Valley; Valley of Uchisar; Underground city of Kaimacli; Pasabag Valley , Traditional tea in Safranbolu , Gokgol Magarasi cave , Caves and tombs in Eregli , Eydinpinar Waterfalls",
@@ -194,28 +234,334 @@
       "five": "Entrance fees & optional tours (Prices vary from season to season; only the price at the ticket booth / box office is final"
     }
   },
+
+  // dubai tour packages
   {
-    "overview": "Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.Discover Real Moments and True Experiences in San Antonio and find something for everyone! Discover Real Moments and True Fun. From family adventures to the River Walk & more. Theme Parks. Rich History. Provide hand sanitizer. Live Music. Get Free Visitor's Guide. Food & Wine Festivals.",
+    "overview": "The Maldives is an irresistible destination with its white sugar sands, turquoise hue waters, and glowing beaches! We have curated some brilliant Maldives Tour packages from Kochi Kerala that can be customized to suit your pace and priorities! Snatch the adventure activities like deep diving, snorkeling, kayaking, canoeing, and parasailing, and make memories of a lifetime by booking with us. A honeymoon in the Maldives has few parallels anywhere in the world! Get the best deals on Maldives tour packages from Kochi with our well-crafted packages!",
     "img": "images/img-1.jpg",
     "age": 29,
-    "stay": "4days,5nights stay",
+    "stay": "3days,2nights ",
+    "ratings": "4.5",
+    "name": "Dubai tour packages",
+    "price": "$410/person",
+
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+    "itinerary": [
+      { "firstDay": "Dubai Arrivals" },
+      { "secondDay": "Dubai City Tour" },
+      { "thirdDay": "Dubai Departure" }
+    ],
+    "includes": [
+      {
+        "one": "Above mentioned/base category room accommodation on selected category hotel"
+      },
+      { "two": "Breakfast, except on Check-in Date" },
+      { "three": "Airport and Hotel transfers by speedboat" },
+      { "four": "Breakfast, Lunch, and Dinner ", "five": "All taxes " },
+      { "six": "Complimentary activities from the hotel" },
+      { "seven": "Sightseeing as per Itinerary on SIC Basis" },
+      { "eight": "Creek Dhow Cruise Dinner with Transfers from hotel" },
+      { "nine": "Duabi Local Tour (half-day) on SIC basis" },
+      { "ten": "Total fare includes GST" }
+    ],
+    "excludes": [
+      {
+        "one": "Any portage at airports and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature"
+      },
+      { "two": "Optional activities are not included" },
+      {
+        "three": "Entry fees for Dubai Museum & other sites during local tour"
+        
+      },
+
+      {
+        "four": "Hotel Early Check-in / Late Check-out Charges, if applicable"
+      },
+      {
+        "five": "Airfare, Visa Processing fees "
+      }
+    ],
+    "termsAndCondition": [
+      {
+        "one": "Child of 12 years & above is considered adults"
+      },
+      { "two": "The Rates are as of now and No Bookings made" },
+      {
+        "three": "Airfares are 100% Non-refundable"
+      },
+
+      {
+        "four": "Rooms are subject to availability "
+      },
+      {
+        "five": "A land Package for an Infant is complimentary"
+      },
+      {
+        "six": "An extra Charge will be applicable for Additional Baggage "
+      },
+      {
+        "seven": "The Package cost published on the website is the least expected cost of the year, the price can vary with respect to the seasonal traffic of your travel date. "
+      },
+      {
+        "eight": "The airfare charges imposed by the airlines may vary according to seasonal fluctuations and traffic "
+      }
+    ]
+  },
+
+  {
+    "overview": "Our Dubai Tour Packages explore the best of this dream city's urban delights! Brace yourself for some ‘out-of-the-world’ experiences in Dubai! Enthralling desert safari and exhilarating city tour experiences are awaiting you in our Dubai Tour Packages. Check out World's largest, tallest, biggest and longest installations as we take you through the architectural miracles of Dubai. You can savor the stunning skyline crazy good islands including palm-shaped ones and high rise cityscapes. Book your Dubai Tour package now and indulge in the Persian delights, shop all you want and dissolve into the beauty of Dubai's architectural marvels! This Dubai tour package is for all tourists who want to explore the amazing city in the world.",
+    "img": "images/img-1.jpg",
+    "stay": "3days,3nights",
     "ratings": "5",
-    "name": "cox's bazar-All stunning place",
-    "price": "$40",
+    "name": "Dubai tour packages for Couple",
+    "price": "$529/per couple",
     "place-img": {
       "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
       "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
       "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
     },
 
-    "facilities": [
-      "flight facility",
-      "5star hotel",
-      "site seeing",
-      "transport",
-      "Meels",
-      "Room service",
-      "Air condition room"
+    "itinerary": [
+      { "firstDay": "Dubai transfer and Check into Hotel" },
+      { "secondDay": "Half day city tour and desert safari" },
+      { "thirdDay": "Abudhabi city tour-Ferrari world-Burj Khalifa entry" },
+      { "fourthDay": "Miracle garden" },
+      { "fifthDay": "Departure" }
+    ],
+
+    "includes": [
+      {
+        "one": "Above mentioned/base category room accommodation on twin sharing basis"
+      },
+      { "two": "Maldives tour Package from Dhaka price valid for 2 people" },
+      { "three": "Airport - Hotel - Airport transfers in Private basis" },
+      { "four": "Breakfast, Lunch, and Dinner" },
+      { "five": "All sightseeing in SIC basis " },
+      { "six": "Driver's bata, toll, parking, road tax, fuel charges." },
+      { "seven": "Miracle Garden ( SIC Transfers) Desert safari with Dinner ( Transfers) Dubai Mall ( SIC Transfers)Burj Khalifa entry ( 124th Floor ) ( SIC Transfers) Abudhabi city tour ( SIC Transfers),Ferrari world (SIC ),Tax ,Breakfast,Above mentioned all places entry charges" }
+    ],
+    "excludes": [
+      {
+        "one": "Any portage at airports and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature"
+      },
+      { "two": "Optional activities are not included" },
+      {
+        "three": "Compulsory Gala Dinner on Xmas & New year's Eve if applicable"
+      },
+
+      {
+        "four": "Any other services not specifically mentioned in the inclusions"
+      },
+      {
+        "five": "flight and Visa Charges"
+      },
+      {
+        "six": "Lunch and Dinner are not included in cp plans."
+      },
+      {
+        "seven": "Helicopter ride and Yatch fee"}
+    ],
+    "termsAndCondition": [
+      {
+        "one": "Please read these terms and conditions carefully before using Our Service. The below terms and conditions are considered as the binding contract between every customer and the company, considering the plan confirmed at the time of booking as final approving the below terms"
+      },
+      {
+        "two": "The Pricing provided for the package is for the specified dates and valid for a specific period of timeCancellations of the package will be carried out only as per our policies, and partial cancellations or amendments will be made as per the fare and policies at the point of action"
+      },
+      {
+        "three": "The Resorts and destinations suggested by our side will be always open for suggestions and changes before booking, as once the booking has been made or at the time of travel the change in hotels or destination is not possible"
+      },
+
+      {
+        "four": "Please note that after the finalization of the Tour/ service Cost, if there are any Hike in entrance fees of monuments / museums, Taxes, fuel cost or guide charges – by Govt of India, the same would be charged as extra "
+      },
+      {
+        "five": "All itineraries are sample itineraries, intended to give you a general idea of the likely trip schedule. Numerous factors such as weather, road conditions, the physical ability of the participants etc. may dictate itinerary changes either before the tour or while on the trail. We reserve the right to change any schedule in the interest of the trip participants' safety, comfort & general well being"
+      },
+      {
+        "six": "We shall not be responsible for any delays & alterations in the programme or expenses incurred – directly or indirectly – due to natural hazards, flight cancellations, accident, breakdown of machinery or equipment's, breakdown of transport, weather, sickness, landslides, political closures or any untoward incidents "
+      },
+      {
+        "seven": "We shall not be responsible for any loss, injury or damage to person, property, or otherwise in connection with any accommodation, transportation or other services, resulting – directly or indirectly – from any act of GOD, dangers, fire, accident, breakdown in machinery or equipment, breakdown of transport, wars, civil disturbances, strikes, riots, thefts, pilferages, epidemics, medical or custom department regulations, defaults, or any other causes beyond our control."
+      },
+      {
+        "eight": "We do not have any insurance policy covering the expenses for accident, sickness, loss due to theft, or any other reasons. Visitors are advised to seek such insurance arrangements before hand travelling"
+      },
+      {
+        "nine": "We request all the customers to review travel warnings, announcements, advisories and prohibitions issued by the relevant authorities and governments prior to confirming their bookings"
+      },
+      {
+        "nine": "By offering travel products for particular destinations, we does not warrant that travel to such areas is advisable or without risk. We are not liable for damages or losses that may result from travel to such destinations."
+      },
+      {
+        "ten": "By offering travel products for particular destinations, we does not warrant that travel to such areas is advisable or without risk. We are not liable for damages or losses that may result from travel to such destinations."
+      },
+      {
+        "eleven": "Places will be covered as per the final plan shared by the consultant at the time of booking, any other attractions adding to the plan at the time of travel would be addition and switching attraction in between travel is also not allowed within the package."
+      }
+    ]
+  }
+
+
+
+  // maldives tour packages
+  {
+    "overview": "The Maldives is an irresistible destination with its white sugar sands, turquoise hue waters, and glowing beaches! We have curated some brilliant Maldives Tour packages from Kochi Kerala that can be customized to suit your pace and priorities! Snatch the adventure activities like deep diving, snorkeling, kayaking, canoeing, and parasailing, and make memories of a lifetime by booking with us. A honeymoon in the Maldives has few parallels anywhere in the world! Get the best deals on Maldives tour packages from Kochi with our well-crafted packages!",
+    "img": "images/img-1.jpg",
+    "stay": "4days,5nights stay",
+    "ratings": "5",
+    "name": "Maldives tour packages",
+    "price": "$410/person",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "itinerary": [
+      { "firstDay": "Maldives Arrivals" },
+      { "secondDay": "Day for leisure" },
+      { "thirdDay": "Day for Water sports" },
+      { "fourthDay": "Maldives Departure" }
+    ],
+
+    "includes": [
+      {
+        "one": "Above mentioned/base category room accommodation on twin sharing basis"
+      },
+      { "two": "Maldives tour Package from Dhaka price valid for 2 people" },
+      { "three": "Airport and Hotel transfers by speedboat" },
+      { "four": "Breakfast, Lunch, and Dinner ", "five": "All taxes " },
+      { "six": "Complimentary activities from the hotel" }
+    ],
+    "excludes": [
+      {
+        "one": "Any portage at airports and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature"
+      },
+      { "two": "Optional activities are not included" },
+      {
+        "three": "Compulsory Gala Dinner on Xmas & New year's Eve if applicable"
+      },
+
+      {
+        "four": "Any other services not specifically mentioned in the inclusions"
+      }
+    ],
+    "termsAndCondition": [
+      {
+        "one": "Child of 12 years & above is considered adults"
+      },
+      { "two": "The Rates are as of now and No Bookings made" },
+      {
+        "three": "Airfares are 100% Non-refundable"
+      },
+
+      {
+        "four": "Rooms are subject to availability "
+      },
+      {
+        "five": "A land Package for an Infant is complimentary"
+      },
+      {
+        "six": "An extra Charge will be applicable for Additional Baggage "
+      },
+      {
+        "seven": "The Package cost published on the website is the least expected cost of the year, the price can vary with respect to the seasonal traffic of your travel date. "
+      },
+      {
+        "eight": "The airfare charges imposed by the airlines may vary according to seasonal fluctuations and traffic "
+      }
+    ]
+  },
+  {
+    "overview": "The Maldives is an alluring destination with its white sugar sands, turquoise hue waters, and glowing beaches! We have curated some brilliant Maldives Tour packages from Kochi Kerala that can be customized to suit your pace and priorities! Snatch the adventure activities like deep diving, snorkeling, kayaking, canoeing, and parasailing, and make memories of a lifetime by booking with us. A honeymoon in the Maldives has few parallels anywhere in the world! Get the best deals on Maldives tour packages from Kochi with our well-crafted packages!",
+    "img": "images/img-1.jpg",
+    "stay": "3days,3nights",
+    "ratings": "5",
+    "name": "Maldives Honeymoon packages from Dhaka",
+    "price": "$569/per couple",
+    "place-img": {
+      "img-1": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-2": "https://i.ibb.co/ZdStJWx/hotel-img-8.png",
+      "img-3": "https://i.ibb.co/ZdStJWx/hotel-img-8.png"
+    },
+
+    "itinerary": [
+      { "firstDay": "Maldives Arrivals" },
+      { "secondDay": "Day for leisure" },
+      { "thirdDay": "Day for Water sports" },
+      { "fourthDay": "Maldives Departure" }
+    ],
+
+    "includes": [
+      {
+        "one": "Above mentioned/base category room accommodation on twin sharing basis"
+      },
+      { "two": "Maldives tour Package from Dhaka price valid for 2 people" },
+      { "three": "Airport and Hotel transfers by speedboat" },
+      { "four": "Breakfast, Lunch, and Dinner" },
+      { "five": "All taxes " },
+      { "six": "Complimentary activities from the hotel" },
+      { "seven": "Medhufushi island resort" }
+    ],
+    "excludes": [
+      {
+        "one": "Any portage at airports and hotels, tips, insurance, wine, mineral water, telephone charges, and all items of personal nature"
+      },
+      { "two": "Optional activities are not included" },
+      {
+        "three": "Compulsory Gala Dinner on Xmas & New year's Eve if applicable"
+      },
+
+      {
+        "four": "Any other services not specifically mentioned in the inclusions"
+      },
+      {
+        "five": "flight and Visa Charges"
+      }
+    ],
+    "termsAndCondition": [
+      {
+        "one": "Please read these terms and conditions carefully before using Our Service. The below terms and conditions are considered as the binding contract between every customer and the company, considering the plan confirmed at the time of booking as final approving the below terms"
+      },
+      {
+        "two": "The Pricing provided for the package is for the specified dates and valid for a specific period of timeCancellations of the package will be carried out only as per our policies, and partial cancellations or amendments will be made as per the fare and policies at the point of action"
+      },
+      {
+        "three": "The Resorts and destinations suggested by our side will be always open for suggestions and changes before booking, as once the booking has been made or at the time of travel the change in hotels or destination is not possible"
+      },
+
+      {
+        "four": "Please note that after the finalization of the Tour/ service Cost, if there are any Hike in entrance fees of monuments / museums, Taxes, fuel cost or guide charges – by Govt of India, the same would be charged as extra "
+      },
+      {
+        "five": "All itineraries are sample itineraries, intended to give you a general idea of the likely trip schedule. Numerous factors such as weather, road conditions, the physical ability of the participants etc. may dictate itinerary changes either before the tour or while on the trail. We reserve the right to change any schedule in the interest of the trip participants' safety, comfort & general well being"
+      },
+      {
+        "six": "We shall not be responsible for any delays & alterations in the programme or expenses incurred – directly or indirectly – due to natural hazards, flight cancellations, accident, breakdown of machinery or equipment's, breakdown of transport, weather, sickness, landslides, political closures or any untoward incidents "
+      },
+      {
+        "seven": "We shall not be responsible for any loss, injury or damage to person, property, or otherwise in connection with any accommodation, transportation or other services, resulting – directly or indirectly – from any act of GOD, dangers, fire, accident, breakdown in machinery or equipment, breakdown of transport, wars, civil disturbances, strikes, riots, thefts, pilferages, epidemics, medical or custom department regulations, defaults, or any other causes beyond our control."
+      },
+      {
+        "eight": "We do not have any insurance policy covering the expenses for accident, sickness, loss due to theft, or any other reasons. Visitors are advised to seek such insurance arrangements before hand travelling"
+      },
+      {
+        "nine": "We request all the customers to review travel warnings, announcements, advisories and prohibitions issued by the relevant authorities and governments prior to confirming their bookings"
+      },
+      {
+        "nine": "By offering travel products for particular destinations, we does not warrant that travel to such areas is advisable or without risk. We are not liable for damages or losses that may result from travel to such destinations."
+      },
+      {
+        "ten": "By offering travel products for particular destinations, we does not warrant that travel to such areas is advisable or without risk. We are not liable for damages or losses that may result from travel to such destinations."
+      },
+      {
+        "eleven": "Places will be covered as per the final plan shared by the consultant at the time of booking, any other attractions adding to the plan at the time of travel would be addition and switching attraction in between travel is also not allowed within the package."
+      }
     ]
   }
 ]
