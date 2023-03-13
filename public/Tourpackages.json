@@ -235,7 +235,6 @@
     }
   },
 
-  // dubai tour packages
   {
     "overview": "The Maldives is an irresistible destination with its white sugar sands, turquoise hue waters, and glowing beaches! We have curated some brilliant Maldives Tour packages from Kochi Kerala that can be customized to suit your pace and priorities! Snatch the adventure activities like deep diving, snorkeling, kayaking, canoeing, and parasailing, and make memories of a lifetime by booking with us. A honeymoon in the Maldives has few parallels anywhere in the world! Get the best deals on Maldives tour packages from Kochi with our well-crafted packages!",
     "img": "images/img-1.jpg",
@@ -275,7 +274,6 @@
       { "two": "Optional activities are not included" },
       {
         "three": "Entry fees for Dubai Museum & other sites during local tour"
-        
       },
 
       {
@@ -342,7 +340,9 @@
       { "four": "Breakfast, Lunch, and Dinner" },
       { "five": "All sightseeing in SIC basis " },
       { "six": "Driver's bata, toll, parking, road tax, fuel charges." },
-      { "seven": "Miracle Garden ( SIC Transfers) Desert safari with Dinner ( Transfers) Dubai Mall ( SIC Transfers)Burj Khalifa entry ( 124th Floor ) ( SIC Transfers) Abudhabi city tour ( SIC Transfers),Ferrari world (SIC ),Tax ,Breakfast,Above mentioned all places entry charges" }
+      {
+        "seven": "Miracle Garden ( SIC Transfers) Desert safari with Dinner ( Transfers) Dubai Mall ( SIC Transfers)Burj Khalifa entry ( 124th Floor ) ( SIC Transfers) Abudhabi city tour ( SIC Transfers),Ferrari world (SIC ),Tax ,Breakfast,Above mentioned all places entry charges"
+      }
     ],
     "excludes": [
       {
@@ -363,7 +363,8 @@
         "six": "Lunch and Dinner are not included in cp plans."
       },
       {
-        "seven": "Helicopter ride and Yatch fee"}
+        "seven": "Helicopter ride and Yatch fee"
+      }
     ],
     "termsAndCondition": [
       {
@@ -404,11 +405,8 @@
         "eleven": "Places will be covered as per the final plan shared by the consultant at the time of booking, any other attractions adding to the plan at the time of travel would be addition and switching attraction in between travel is also not allowed within the package."
       }
     ]
-  }
+  },
 
-
-
-  // maldives tour packages
   {
     "overview": "The Maldives is an irresistible destination with its white sugar sands, turquoise hue waters, and glowing beaches! We have curated some brilliant Maldives Tour packages from Kochi Kerala that can be customized to suit your pace and priorities! Snatch the adventure activities like deep diving, snorkeling, kayaking, canoeing, and parasailing, and make memories of a lifetime by booking with us. A honeymoon in the Maldives has few parallels anywhere in the world! Get the best deals on Maldives tour packages from Kochi with our well-crafted packages!",
     "img": "images/img-1.jpg",

@@ -1,0 +1,33 @@
+.package-name {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  color: #112211;
+}
+
+.package-location p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #112211;
+  opacity: 0.75;
+}
+
+.package-price {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 39px;
+  color: #ff8682;
+}
+
+.overview p {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 20px;
+  color: #112211;
+  opacity: 0.75;
+}

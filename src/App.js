@@ -3,6 +3,7 @@ import './App.css';
 import HotelPakages from './Components/HotelPakages/HotelPakages';
 // import HotelPakages from './Components/HotelPakages/HotelPakages';
 import AboutUs from './Components/AboutUs/AboutUs';
+import PackagesDetails from './Components/PackagesDetails/PackagesDetails';
 // import Facilities from './Components/Facilities/HotelPakages/HotelPakages'
 // import Header from './Components/Header/Header';
 // import Home from './Components/Home/Home';
@@ -11,12 +12,13 @@ import AboutUs from './Components/AboutUs/AboutUs';
 function App() {
   return (
     <div>
-      <AboutUs></AboutUs>
+      {/* <AboutUs></AboutUs> */}
       {/* <Facilities></Facilities> */}
       {/* <Facilities></Facilities> */}
       {/* <HotelPakages></HotelPakages> */}
           {/* <Header></Header>
           <Home></Home> */}
+          <PackagesDetails></PackagesDetails>
     </div>
   );
 }
